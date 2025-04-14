@@ -21,7 +21,7 @@
 - Clone the repository or download the fooddelivery.py file.
 - Open your terminal and navigate to the project directory.
 - Run the script using:
-<pre>```bash python fooddelivery.py ``` </pre>
+<pre>```python fooddelivery.py ``` </pre>
 
 # Follow the prompts in the terminal to input:
 Number of customers, restaurants, delivery agents, and orders.
